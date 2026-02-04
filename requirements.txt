@@ -1,8 +1,8 @@
 streamlit
 google-generativeai
-##anthropic
-requests
 pydicom
+cryptography
 pillow
 numpy
-cryptography
+pandas
+requests
